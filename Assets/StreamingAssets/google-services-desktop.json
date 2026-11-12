@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701566725572",
+    "project_id": "non-immersiveapp",
+    "storage_bucket": "non-immersiveapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701566725572:android:95e1d2a7d7baa2cd168891",
+        "android_client_info": {
+          "package_name": "com.s3.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEFn1fWF5JbbQQxn0a3dXYBv8JGeOJsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

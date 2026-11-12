@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f217c76b28b9219438876ed8bb446e0c, type: 3}
+  m_Name: Wrench
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  id: Wrench 1
+  description: A Wrench that can be used to pull off bolts
+  icon: {fileID: 21300000, guid: 7be7bb9905123ae4e8bcdfa9ef98a77b, type: 3}
+  prefab: {fileID: 2654304634806200726, guid: f851784a17bd43b43980ae5608856ab5, type: 3}
